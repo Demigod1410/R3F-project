@@ -4,6 +4,7 @@ import './App.css'
 import { Canvas } from '@react-three/fiber'
 import Earth from '../public/Earth'
 import Earth2 from '../public/Earth2'
+import Jupiter from '../public/Jupiter'
 import { Suspense } from 'react'
 import { Environment, OrbitControls } from '@react-three/drei'
 
